@@ -10,6 +10,6 @@
 
 2-    Download CancerGenomeXX.zip
 
-3-    Double click in CancerGenome.exe to start it. 
+3-    Double click in  to start it. 
 
 4-    Important: MCR only works if you are connected to the internet.
