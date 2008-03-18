@@ -10,4 +10,4 @@
 
 3-    Double click in !CancerGenome.exe to start it. 
 
-4-    Important: MCR only works if you are connected to 
+4-    Important: MCR only works if you are connected to the internet
