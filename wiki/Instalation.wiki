@@ -1,13 +1,13 @@
-#summary One-sentence summary of this page.
+#sumary: how to install the Cancer Genome Browser
 
-= Introduction =
+= Stand Alone Installation – Windows = 
 
-Add your content here.
+ 
 
+1-    Run MATLAB Component Runtime (MCR) installer: http://bioinformaticstation.org/win/MCRInstaller.exe  (122 Mb).
 
-= Details =
+2-    Download CancerGenomeXX.zip
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+3-    Double click in CancerGenome.exe to start it. 
+
+4-    Important: MCR only works if you are connected to 
