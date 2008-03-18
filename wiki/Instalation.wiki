@@ -1,4 +1,4 @@
-#sumary: how to install the Cancer Genome Browser
+#summary : how to install the Cancer Genome Browser
 
 = Stand Alone Installation – Windows = 
 
