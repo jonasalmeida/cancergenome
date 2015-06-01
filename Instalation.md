@@ -1,0 +1,11 @@
+# Stand Alone Installation – Windows #
+
+
+
+1-    Run MATLAB Component Runtime (MCR) installer: http://bioinformaticstation.org/win/MCRInstaller.exe  (122 Mb).
+
+2-    Download CancerGenome\_win.exe
+
+3-    Double click in CancerGenome.exe to start it.
+
+4-    Important: MCR only works if you are connected to the internet.
